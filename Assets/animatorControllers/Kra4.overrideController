@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Kra4
+  m_Controller: {fileID: 9100000, guid: e417a4190435b4cab8078e8434fe6972, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a3effcce7afe64f9b91c8e6e13860bb1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: adee50c825c644e46afc134033c5a8bd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: dcc16526f488c44d68282e63ed150b1d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eb131ecefdcd64411a46a4b656a90be5, type: 2}
