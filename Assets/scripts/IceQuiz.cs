@@ -26,4 +26,11 @@ public class IceQuiz : MonoBehaviour {
         success++;
         Debug.Log(success.ToString());
     }
-}
+
+    private void OnMouseDown()
+    {
+        if (success >= 7)
+        {
+            
+        }
+    }

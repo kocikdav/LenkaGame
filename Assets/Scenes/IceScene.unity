@@ -204,7 +204,7 @@ GameObject:
   - component: {fileID: 309181974}
   - component: {fileID: 309181973}
   m_Layer: 9
-  m_Name: "lod\u030C s ledem"
+  m_Name: lod s ledem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -473,6 +473,56 @@ Prefab:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 74fbf958cf608452c9e2e261a65cde04, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &816131540
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4099504070858202, guid: 3128dc2efba4d487bba4f63f1241586a, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099504070858202, guid: 3128dc2efba4d487bba4f63f1241586a, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099504070858202, guid: 3128dc2efba4d487bba4f63f1241586a, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099504070858202, guid: 3128dc2efba4d487bba4f63f1241586a, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099504070858202, guid: 3128dc2efba4d487bba4f63f1241586a, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099504070858202, guid: 3128dc2efba4d487bba4f63f1241586a, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099504070858202, guid: 3128dc2efba4d487bba4f63f1241586a, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099504070858202, guid: 3128dc2efba4d487bba4f63f1241586a, type: 2}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099504070858202, guid: 3128dc2efba4d487bba4f63f1241586a, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099504070858202, guid: 3128dc2efba4d487bba4f63f1241586a, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 3128dc2efba4d487bba4f63f1241586a, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &945167699
 Prefab:
