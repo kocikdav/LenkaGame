@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class IceQuiz : MonoBehaviour {
+public class IceQuiz : MonoBehaviour
+{
 
     private int success = 0;
     private Animator animator;
@@ -31,6 +32,8 @@ public class IceQuiz : MonoBehaviour {
     {
         if (success >= 7)
         {
-            
+
         }
     }
+}
+
